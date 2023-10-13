@@ -31,6 +31,7 @@
                     <a class="btn btn-link" href="service.php">Our Services</a>
                     <a class="btn btn-link" href="causes.php">Media</a>
                     <a class="btn btn-link" href="contact.php">Support</a>
+                    <a class="btn btn-link" href="faq.php">FAQS</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Newsletter</h5>
